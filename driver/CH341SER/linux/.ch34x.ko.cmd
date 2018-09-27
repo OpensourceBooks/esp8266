@@ -1,0 +1,1 @@
+cmd_/home/cr4fun/Downloads/esp8266/driver/CH341SER/linux/ch34x.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds  --build-id  -o /home/cr4fun/Downloads/esp8266/driver/CH341SER/linux/ch34x.ko /home/cr4fun/Downloads/esp8266/driver/CH341SER/linux/ch34x.o /home/cr4fun/Downloads/esp8266/driver/CH341SER/linux/ch34x.mod.o ;  true
